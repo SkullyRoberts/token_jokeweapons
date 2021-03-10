@@ -4,7 +4,7 @@ SWEP.Author = "Token"
 SWEP.Contact = "your email adress"--Optional
 SWEP.Purpose = "To make your soul sad."
 SWEP.Instructions = "*intense BRRRRR*"
-SWEP.Category = "Joke" --This is required or else your weapon will be placed under "Other"
+SWEP.Category = "Sandbox_Joke" --This is required or else your weapon will be placed under "Other"
 
 SWEP.Spawnable= true --Must be true
 SWEP.AdminOnly = false
