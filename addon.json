@@ -1,0 +1,11 @@
+{
+	"title"		:	"Token's Joke Weapons Pack",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
