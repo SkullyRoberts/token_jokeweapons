@@ -45,7 +45,7 @@ SWEP.UseHands           = true
 
 SWEP.HoldType = "ar2" 
 
-SWEP.FiresUnderwater = false
+SWEP.FiresUnderwater = true
 
 SWEP.ReloadSound = "Weapon_p90.Reload"
 
