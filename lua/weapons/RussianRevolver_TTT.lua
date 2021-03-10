@@ -17,6 +17,7 @@ SWEP.AllowDrop = true
 SWEP.IsSilent = false
 SWEP.NoSights = false
 SWEP.AutoSpawnable = false
+SWEP.HeadshotMultiplier = 4
 
 local ShootSound = Sound("Weapon_357.Single")
 SWEP.Primary.Damage = 90 --The amount of damage will the weapon do
@@ -54,7 +55,7 @@ SWEP.HoldType = "Pistol"
 
 SWEP.ReloadSound = "Weapon_357.Reload" 
 
-SWEP.FiresUnderwater = false
+SWEP.FiresUnderwater = true
 
 SWEP.CSMuzzleFlashes = true
 

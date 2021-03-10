@@ -45,7 +45,7 @@ SWEP.UseHands           = true
 
 SWEP.HoldType = "Pistol" 
 
-SWEP.FiresUnderwater = false
+SWEP.FiresUnderwater = true
 
 SWEP.ReloadSound = "Weapon_Scout.Reload"
 

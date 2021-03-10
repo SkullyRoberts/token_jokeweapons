@@ -47,7 +47,7 @@ SWEP.HoldType = "Pistol"
 
 SWEP.ReloadSound = "Weapon_357.Reload" 
 
-SWEP.FiresUnderwater = false
+SWEP.FiresUnderwater = true
 
 SWEP.CSMuzzleFlashes = true
 
